@@ -1,6 +1,6 @@
 # android_tests_example
 
-Android test example using Android-Assertj and Instruments. based on(Learning Android Application Testing)[https://www.packtpub.com/application-development/learning-android-application-testing].
+Android test example using Android-Assertj and Instruments. based on [Learning Android Application Testing](https://www.packtpub.com/application-development/learning-android-application-testing).
 
 # How To Contribute
 1. Fork this repo.
